@@ -3,10 +3,10 @@ Lippupalvelu mobile is a mobile client for an event booking service.
 
 Technologies used in the project:
 
-- React Native
+- React Native - A programming language that allows Native mobile development with JavaScript
 
-- React Navigation
+- React Navigation - Provides navigation options for React Native applications
 
-- Expo Cli
+- Expo Cli - Development toolkit for React Native
 
-- Lippupalvelu api
+- Lippupalvelu api - The api mainly consumed in the project
