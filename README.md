@@ -10,3 +10,5 @@ Technologies used in the project:
 - Expo Cli - Development toolkit for React Native
 
 - Lippupalvelu api - The api mainly consumed in the project
+
+Expo link: https://expo.dev/@olkkukinkku/lippuclienttioliver
